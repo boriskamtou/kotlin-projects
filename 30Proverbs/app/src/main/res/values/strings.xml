@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">30Proverbs</string>
+    <string name="proverb_day_1_day">Day 1</string>
+    <string name="proverb_day_1_title">If you play with fire, you’ll get burned</string>
+    <string name="proverb_day_1_description">Meaning: If you get involved in something dangerous or beyond your abilities, you will probably experience negative consequences.</string>
+    <string name="proverb_day_2_day">Day 2</string>
+    <string name="proverb_day_2_title">If you want something done right, you have to do it yourself</string>
+    <string name="proverb_day_2_description">Meaning: Don’t depend on someone else to do a good job; do it yourself.</string>
+</resources>
